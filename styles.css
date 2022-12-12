@@ -1,0 +1,13 @@
+body {
+    height: 100%;
+}
+.pay-option {
+    font-size: 1.5em;
+    color: white;
+}
+.pay-container {
+    background-color: gray;
+}
+.pay-radios:checked {
+    background-color: rgb(180, 170, 170);
+}
